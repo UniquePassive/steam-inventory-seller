@@ -1,0 +1,23 @@
+{
+  "name": "steam-inventory-seller",
+  "version": "1.0.0",
+  "description": "Sells all items in your inventory for the current buy price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniquePassive/steam-inventory-seller.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UniquePassive/steam-inventory-seller/issues"
+  },
+  "homepage": "https://github.com/UniquePassive/steam-inventory-seller#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "steamcommunity": "^3.32.3"
+  }
+}
